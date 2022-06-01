@@ -2738,5 +2738,5 @@ const names = [
     "Zubayr",
     "Zuriel",
   ];
-console.log('%c%s', 'color: #00ff37', names);
+  
  
